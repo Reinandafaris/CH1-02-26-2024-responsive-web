@@ -1,13 +1,17 @@
-h1 {
+/* h1 {
   font-size: 30px;
-}
+} */
 
 @media (max-width: 668px) {
+  /* h1 {
+    font-size: 6px;
+    color: yellow;
+  } */
 }
 
 @media (orientation: landscape) and (max-width: 768px) {
-  h1 {
+  /* h1 {
     font-size: 20px;
     color: red;
-  }
+  } */
 }
