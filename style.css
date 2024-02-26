@@ -1,0 +1,13 @@
+h1 {
+  font-size: 30px;
+}
+
+@media (max-width: 668px) {
+}
+
+@media (orientation: landscape) and (max-width: 768px) {
+  h1 {
+    font-size: 20px;
+    color: red;
+  }
+}
